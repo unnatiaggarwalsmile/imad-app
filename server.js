@@ -21,7 +21,7 @@ app.get('/article-one',function(req,res){
 });
 
 app.get('/article-three',function(req,res){
-    res.send('article three is demanded and it will be served here');
+    res.send('its unnati aggarwal here for the first tym wth i mad ');
 });
 
 app.get('/ui/madi.png', function (req, res) {
