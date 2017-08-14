@@ -17,7 +17,7 @@ app.get('/article-one',function(req,res){
 });
     
     app.get('/article-two',function(req,res){
-    res.send('article two is demanded and it will be served here');
+    res.send('heyy guys its my first web page by imad ');
 });
 
 app.get('/article-three',function(req,res){
